@@ -1,7 +1,7 @@
 <h1 align="center">#Cloning the instagram login screen interface.</h1>
 
 <h1 align="center">
-    <img alt="Move.it" title="Move.it" src=".github/login.svg" />
+    <img alt="Login" title="Login" src=".github/login.svg" />
 </h1>
 
 
